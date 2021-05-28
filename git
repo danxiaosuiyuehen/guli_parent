@@ -5,4 +5,4 @@
     git config --global user.email "68077665@qq.com"
 ③配置gitee的公钥之后就不需要输入密码
     ssh-keygen -t rsa -C 68077665@qq.com
-    在C:\Users\Administrator中查看.ssh文件中查看
+    在C:\Users\Administrator中查看.ssh文件中查看...
