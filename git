@@ -1,0 +1,5 @@
+关于git
+①浏览器直接搜git下载，下载慢可以使用阿里镜像，安装都是直接下一步，自动配好path（删除git也要记得删除path）
+②右键桌面点击git bash here配置,可以在（C:\Users\Administrator中查看.gitconfig文件）或者命令（git config --global --list）查看
+    git config --global user.name "wanyu"
+    git config --global user.email "68077665@qq.com"

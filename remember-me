@@ -1,0 +1,6 @@
+后端的定时器，前端的数据统计
+定时器:
+①在开始类上加@EnableScheduling注解
+②建一个java文件，在类上加@Component注解，在方法上加上@Scheduled(cron = "cron表达式")
+数据统计:
+①使用Echarts组件修改
