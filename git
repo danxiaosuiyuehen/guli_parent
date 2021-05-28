@@ -3,3 +3,4 @@
 ②右键桌面点击git bash here配置,可以在（C:\Users\Administrator中查看.gitconfig文件）或者命令（git config --global --list）查看
     git config --global user.name "wanyu"
     git config --global user.email "68077665@qq.com"
+③配置gitee的公钥之后就不需要输入密码
